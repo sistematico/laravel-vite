@@ -4,7 +4,7 @@
 
 ## Using
 
-- `git clone https://github.com/sistematico/laravel-inertiajs-vitejs-typescript`
+- `git clone https://github.com/sistematico/laravel-vite`
 - `cd laravel-inertiajs-vitejs-typescript`
 - `touch database/database.sqlite`
 - `composer install`
